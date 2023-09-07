@@ -7,7 +7,7 @@ user_ids = [
     579536517
 ]
 
-TOKEN = '6317041667:AAHlyg-wS9acRvRJ2c-WNffoZZhDbYSRT1I'
+TOKEN = 'MyToken'
 NAME = "Андрій"
 SURNAME = "Назаренко"
 GROUP = "ДО-4"
