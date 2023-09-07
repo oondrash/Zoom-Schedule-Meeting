@@ -42,7 +42,7 @@ user_ids = [
     "userId2"
 ]
 
-TOKEN = '6317041667:AAHlyg-wS9acRvRJ2c-asdsadasdADSDAS'
+TOKEN = 'MyToken'
 NAME = "Андрій"
 SURNAME = "Назаренко"
 GROUP= "ДО-4"
