@@ -20,7 +20,7 @@ This service allows you to join scheduled zoom meetings, interact with chat via 
  - setup "Show/Hide In-meeting Chat Panel" to "9" and make sure to check the related box.
  - setup "End Meeting" to "8" and make sure to check the related box.
 
-![](assets/settngs3.png)
+![](assets/settngs2.png)
 
 ### Project Setup
 
