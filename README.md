@@ -12,9 +12,9 @@ This service allows you to join scheduled zoom meetings, interact with chat via 
 
 ![](assets/settngs1.png)
 
-2. After that, click on Audio settings and make sure the following boxes are not checked.
+2. After that, click on Audio settings and make sure the following boxes are checked.
 
-![](assets/settngs2.png)
+![](assets/settngs4.png)
 
 3. Finally, setup hotkeys in the Keyboard Shortcuts settings.
  - setup "Show/Hide In-meeting Chat Panel" to "9" and make sure to check the related box.
